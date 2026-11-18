@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="238" viewBox="0 0 680 238" role="img" aria-labelledby="title">
+<title id="title">Sixty-66 — hello there</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111923"/><stop offset="1" stop-color="#19233B"/></linearGradient><clipPath id="round"><rect x="1" y="1" width="678" height="236" rx="16"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="679" height="237" rx="16" fill="url(#bg)" stroke="#344055"/>
+<g clip-path="url(#round)">
+<circle cx="588" cy="118" r="105" fill="#AD9CFA" opacity="0.18"/>
+<circle cx="606" cy="115" r="77" fill="#7DB9FF" opacity="0.20"/>
+<ellipse cx="590" cy="116" rx="129" ry="58" transform="rotate(-25 590 116)" fill="none" stroke="#7DB9FF" stroke-width="2.3" opacity="0.75"/>
+<path d="M470 184 C520 223 529 132 578 164 S635 200 671 151" stroke="#83D3BA" stroke-width="5" opacity="0.95" fill="none" stroke-linecap="round"/>
+<circle cx="502" cy="60" r="7" fill="#F4BF9E"/><circle cx="626" cy="46" r="7" fill="#83D3BA"/>
+<path d="M540 26 L545 40 L559 45 L545 50 L540 64 L535 50 L521 45 L535 40 Z" fill="#F4BF9E"/>
+</g>
+<text x="36" y="56" fill="#8CC5FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="20" letter-spacing="1.2" font-weight="650">HELLO THERE!</text>
+<text x="32" y="135" fill="#F4F7FE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="68" letter-spacing="-1.5" font-weight="740">Sixty-66<tspan fill="#AD9CFA">.</tspan></text>
+<text x="36" y="184" fill="#B7C5DA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="21">Bioinformatics · Biomedical Data Science</text>
+<text x="36" y="213" fill="#B7C5DA" font-family="Arial, sans-serif" font-size="21">Scientific ML</text>
+</svg>
