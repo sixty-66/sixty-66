@@ -27,7 +27,7 @@ I'm always exploring projects in **AI for Science, LLM-powered apps, and compute
 
 I've also contributed to a few open-source projects, including:
 
-[**Mol\***](https://github.com/molstar/molstar) · [**nnU-Net**](https://github.com/MIC-DKFZ/nnUNet) · [**ToolUniverse**](https://github.com/mims-harvard/ToolUniverse) · [**SeqKit**](https://github.com/shenwei356/seqkit) · [**polars-bio**](https://github.com/biodatageeks/polars-bio)
+[**Mol\***](https://github.com/molstar/molstar) · [**nnU-Net**](https://github.com/MIC-DKFZ/nnUNet) · [**ToolUniverse**](https://github.com/mims-harvard/ToolUniverse) · [**SeqKit**](https://github.com/shenwei356/seqkit) · [**polars-bio**](https://github.com/biodatageeks/polars-bio) ……
 
 ### ✍️ Notes & writing
 
